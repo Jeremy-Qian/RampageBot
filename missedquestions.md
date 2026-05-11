@@ -42,7 +42,7 @@
 - When does the next Rampage come out?
 - Can I trust your information?
 ## Other
-oh,yeah,huh,that's not right
+- [x] oh,yeah,huh,that's not right
 ## Phase 1
 ### Celeste
 - [x] who is the best at capture the flag?  
