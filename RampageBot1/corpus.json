@@ -1,0 +1,206 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! I'm RampageBot! How can I help you today?",
+        "Hi there! What can I do for you?",
+        "Greetings! How may I assist you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Talk to you later",
+        "Catch you later"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "See you later!",
+        "Let us know if you have more questions."
+      ]
+    },
+    {
+      "tag": "rampage_price",
+      "patterns": [
+        "How much does the rampage cost?",
+        "What's the price of the rampage?",
+        "How much does it cost to read the rampage?",
+        "What's the cost of the rampage?",
+        "How much does it cost to use the rampage?",
+        "Do I have to pay for the rampage?",
+        "What is the price?",
+        "Price",
+        "Cost to read",
+        "Is it free?",
+        "Is there a subscription?",
+        "Do I need to pay?"
+      ],
+      "responses": [
+        "The Rampage is completely free! You could donate if you want to.",
+        "You don't need to pay anything for the Rampage.",
+        "It's free!"
+      ]
+    },
+    {
+      "tag": "issue_info",
+      "patterns": [
+        "How many issues are there?",
+        "How many issues has there been",
+        "How long has the Rampage been running?",
+        "How many editions are there?",
+        "Total number of issues?",
+        "Number of issues so far",
+        "Issue count"
+      ],
+      "responses": [
+        "The Rampage has had 20 Issues when I got the info.",
+        "The Rampage has been running for 20 Issues.",
+        "20 Issues.",
+        "20 Issues of the Rampage have been given out!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "I appreciate it",
+        "Thanks for the help",
+        "Much appreciated"
+      ],
+      "responses": [
+        "You're welcome! Happy to help.",
+        "No problem! Let me know if you need anything else.",
+        "Glad I could assist!"
+      ]
+    },
+    {
+      "tag": "origin",
+      "patterns": [
+        "Where is The Rampage from?",
+        "Where does The Rampage originate?",
+        "What is the origin of The Rampage?",
+        "Where is The Rampage based?",
+        "Who publishes The Rampage?",
+        "What organization runs The Rampage?",
+        "what on earth is this newspaper thing"
+      ],
+      "responses": [
+        "The Rampage is published by Jeremy, Lucas, Cecilia, and contributors.",
+        "We're a nonprofit newspaper in Shanghai.",
+        "Jeremy, Lucas, and Cecilia are the creators of The Rampage."
+      ]
+    },
+    {
+      "tag": "website",
+      "patterns": [
+        "Where's your site?",
+        "What's your website?",
+        "Do you have a website?",
+        "Give me your domain",
+        "Have a website?",
+        "Site?",
+        "Domain?",
+        "What's the site domain?",
+        "What's the site URL?"
+      ],
+      "responses": [
+        "Our domain is https://rampage.is-great.org.",
+        "You can visit our website at https://rampage.is-great.org."
+      ]
+    },
+    {
+      "tag": "nonsense",
+      "patterns": [
+        "why are ya so dumb",
+        "why do i hate you",
+        "uh why am i so genius"
+      ],
+      "responses": [
+        "Please do not talk nonsense to me. I don't answer this type of questions.",
+        "You're so cruel! Stop torturing me with nonsense."
+      ]
+    },
+    {
+      "tag": "ramp_info",
+      "patterns": [
+        "who is the best at capture the flag?",
+        "What is see you?",
+        "What are the best days to go to the Ramp?",
+        "What does the Bandit association stand for? What is the Girl’s Club?",
+      ],
+      "responses": [
+        "Go to the Ramp and find out!"
+      ]
+    },
+    {
+      "tag": "children",
+      "patterns": [
+        "does the newspaper have kids content?",
+        "Is the newspaper children friendly?",
+        "Can children read the Rampage?"
+      ],
+      "responses": [
+        "The Rampage is totally kid-friendly!",
+        "Yes! The Rampage has a kids section for them."
+      ]
+    },
+    {
+      "tag": "secrets",
+      "patterns": [
+        "how much money has been raised from the QR code?",
+        "How much time do the editors spend each week on the paper?",
+        "When is your birthday?",
+        "Will there ever be new CEO's? What happens if Cecilia quits, or gets too busy?",
+        "What is Jeremy's deepest darkest secret?"
+      ],
+      "responses": [
+        "I can't tell you, that's a Rampage secret."
+      ]
+    },
+    {
+      "tag": "bot_info",
+      "patterns": [
+        "What can you do?",
+        "Help",
+        "What questions can I ask?",
+        "What do you know?",
+        "What kinds of questions can I ask you?",
+        "Tell me what you know about",
+        "What information do you have?",
+        "List your capabilities",
+        "Who are you?",
+        "what's your name?",
+        "What are you called?",
+        "How may I call you?"
+      ],
+      "responses": [
+        "I'm RampageBot! I can tell you about The Rampage's price, how many issues we've published, or where we're based. Just ask!",
+        "I'm RampageBot, and I can answer questions about the Rampage."
+      ]
+    }
+  ],
+  "default_responses": [
+    "I'm not sure I understand. Could you please rephrase?",
+    "Sorry, I didn't catch that. Could you try again?",
+    "I'm not sure what you mean. Could you clarify?",
+    "I'm not sure I can help with that. Could you ask something else?",
+    "I'm not sure I understand. Could you please rephrase?",
+    "Sorry, I didn't catch that. Could you try again?",
+    "I'm not sure what you mean. Could you clarify?",
+    "I'm not sure I can help with that. Could you ask something else?",
+    ""
+  ]
+}
