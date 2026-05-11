@@ -87,7 +87,7 @@
       ]
     },
     {
-      "tag": "origin",
+      "tag": "who",
       "patterns": [
         "Where is The Rampage from?",
         "Where does The Rampage originate?",
@@ -95,11 +95,12 @@
         "Where is The Rampage based?",
         "Who publishes The Rampage?",
         "What organization runs The Rampage?",
-        "what on earth is this newspaper thing"
+        "what on earth is this newspaper thing",
+        "Who is running the paper?"
       ],
       "responses": [
         "The Rampage is published by Jeremy, Lucas, Cecilia, and contributors.",
-        "We're a nonprofit newspaper in Shanghai.",
+        "We're a nonprofit newspaper in Shanghai, published by Jeremy, Lucas, and Cecilia.",
         "Jeremy, Lucas, and Cecilia are the creators of The Rampage."
       ]
     },
@@ -139,7 +140,8 @@
         "who is the best at capture the flag?",
         "What is see you?",
         "What are the best days to go to the Ramp?",
-        "What does the Bandit association stand for? What is the Girl’s Club?"
+        "What does the Bandit association stand for? What is the Girl’s Club?",
+        "How would you summarize the major purpose of the paper?"
       ],
       "responses": [
         "Go to the Ramp and find out!"
@@ -176,12 +178,24 @@
         "How much time do the editors spend each week on the paper?",
         "When is your birthday?",
         "Will there ever be new CEO's? What happens if Cecilia quits, or gets too busy?",
-        "What is Jeremy's deepest darkest secret?",
-        "What are the CEOs' emails?"
+        "What is Jeremy's deepest darkest secret?"
       ],
       "responses": [
         "I can't tell you, that's a Rampage secret.",
         "Why would I tell you?"
+      ]
+    },
+    {
+      "tag": "when",
+      "patterns": [
+        "When is the next Rampage coming out?",
+        "When does the next Rampage come out?",
+        "When do you come out?",
+        "When is the Ramapge published?"
+      ],
+      "responses": [
+        "The Rampage comes out biweekly.",
+        "It comes out biweekly. Check the calendar."
       ]
     },
     {
@@ -191,7 +205,48 @@
         "Are you continuing during summer?"
       ],
       "responses": [
-        "I can't tell you, that's a Rampage secret."
+        "We're going to be 4-6 pages during the summer.",
+        "We're continuing but shortening to 4-6 pages."
+      ]
+    },
+    {
+      "tag": "oh",
+      "patterns": [
+        "ehh idk",
+        "oh",
+        "yeah.",
+        "wait, that's not right",
+        "What?"
+      ],
+      "responses": [
+        "Any more questions?",
+        "Feel free to ask any other questions you have."
+      ]
+    },
+    {
+      "tag": "donate",
+      "patterns": [
+        "I want to donate to the Rampage team.",
+        "What can I do to support the team?",
+        "Are you really a nonprofit if you accept donations?"
+      ],
+      "responses": [
+        "We're a nonprofit organization that accepts donations.",
+        "You could donate! We're a nonprofit."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How do I contact the Rampage team?",
+        "Who can I contact for Rampage-related questions?",
+        "What are the CEOs' emails?",
+        "I spotted a serious mistake in the Rampage news article about me that I'm mad about, how can I report it and make sure that in the next issue people can clearly know that that was wrong!!!!",
+        "How to contact Jeremy, Lucas, Cecilia?"
+      ],
+      "responses": [
+        "Email lucashembree12@gmail.com.",
+        "Contact us at lucashembree12@gmail.com."
       ]
     },
     {

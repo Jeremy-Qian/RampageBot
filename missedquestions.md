@@ -82,18 +82,18 @@ oh,yeah,huh,that's not right
 - [x] When can an adult write an article?  
 - [x] How long will the paper be on summer holiday?  
 ### David
-- [ ] ehh idk
+- [x] ehh idk
 ### Julia
 - [x] What type of news stories or articles is the Rampage looking for people to write? 
 - [x] How can I become a columnist and not just a journalist? 
 - [x] Can I help design the Rampage? 
-- [ ] I spotted a serious mistake in the Rampage news article about me that I'm mad about, how can I report it and make sure that in the next issue people can clearly know that that was wrong!!!!
+- [x] I spotted a serious mistake in the Rampage news article about me that I'm mad about, how can I report it and make sure that in the next issue people can clearly know that that was wrong!!!!
 ### John
-- [ ] How would you summarize the major purpose of the paper?
+- [x] How would you summarize the major purpose of the paper?
 - [x] How can I get my articles on this newspaper?
-- [ ] What can I do to support the team?
-- [ ] Who is running the paper?
+- [x] What can I do to support the team?
+- [x] Who is running the paper?
 ### Lucas
 - [x] What are the CEOs' emails?
-- [ ] Are you really a nonprofit if you accept donations?
-- [ ] When does the next Rampage come out?
+- [x] Are you really a nonprofit if you accept donations?
+- [x] When does the next Rampage come out?
