@@ -139,7 +139,7 @@
         "who is the best at capture the flag?",
         "What is see you?",
         "What are the best days to go to the Ramp?",
-        "What does the Bandit association stand for? What is the Girl’s Club?",
+        "What does the Bandit association stand for? What is the Girl’s Club?"
       ],
       "responses": [
         "Go to the Ramp and find out!"
@@ -155,6 +155,18 @@
       "responses": [
         "The Rampage is totally kid-friendly!",
         "Yes! The Rampage has a kids section for them."
+      ]
+    },
+    {
+      "tag": "articles",
+      "patterns": [
+        "what articles can I look forward to in the next edition?",
+        "What book should I read right now?",
+        "What is the most important article you want me to look at first?"
+      ],
+      "responses": [
+        "You could check out the Rampage website!",
+        "The Rampage Website has an article archive. Look over there!"
       ]
     },
     {
