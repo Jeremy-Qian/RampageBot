@@ -176,10 +176,36 @@
         "How much time do the editors spend each week on the paper?",
         "When is your birthday?",
         "Will there ever be new CEO's? What happens if Cecilia quits, or gets too busy?",
-        "What is Jeremy's deepest darkest secret?"
+        "What is Jeremy's deepest darkest secret?",
+        "What are the CEOs' emails?"
+      ],
+      "responses": [
+        "I can't tell you, that's a Rampage secret.",
+        "Why would I tell you?"
+      ]
+    },
+    {
+      "tag": "summer",
+      "patterns": [
+        "How long will the paper be on summer holiday?",
+        "Are you continuing during summer?"
       ],
       "responses": [
         "I can't tell you, that's a Rampage secret."
+      ]
+    },
+    {
+      "tag": "people_write",
+      "patterns": [
+        "When can an adult write an article?",
+        "How can I become a columnist and not just a journalist?",
+        "Can I help design the Rampage?",
+        "How can I get my articles on this newspaper?",
+        "What type of news stories or articles is the Rampage looking for people to write? "
+      ],
+      "responses": [
+        "We welcome article submissions from anyone! We are currently not looking for columnists or designers.",
+        "We accept article submissions from all contributors! At this time, we are not seeking columnists or designers, but we'd love to feature your writing!"
       ]
     },
     {
