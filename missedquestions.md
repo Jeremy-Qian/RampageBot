@@ -6,19 +6,19 @@
 - When can an adult write an article?
 - How much time do the editors spend each week on the paper?
 - How long will the paper be on summer holiday?
-
+---
 - Who is the best at capture the flag?
 - Can you answer my questions?
 - What is see you?
 - Does the newspaper have kids content?
 - Is the newspaper children friendly?
-
+---
 - Why are you so dumb?
 - What on earth is this newspaper thing?
 - Why do I hate you?
 - Why am I so genius?
-- Ehh, I don't know
-
+- Ehh, idk
+---
 - When is your birthday?
 - What type of news stories or articles is the Rampage looking for people to write?
 - What book should I read right now?
@@ -29,13 +29,13 @@
 - Can I help design the Rampage?
 - Will there ever be new CEOs? What happens if Cecilia quits or gets too busy?
 - I spotted a serious mistake in the Rampage news article about me that I'm mad about. How can I report it and make sure that in the next issue people know it was wrong?
-
+---
 - How would you summarize the major purpose of the paper?
 - What is the most important article you want me to look at first?
 - Who is running the paper?
 - How can I get my articles on this newspaper?
 - What can I do to support the team?
-
+---
 - What is the Rampage?
 - What are the CEOs' emails?
 - Are you really a nonprofit if you accept donations?
@@ -97,3 +97,8 @@
 - [x] What are the CEOs' emails?
 - [x] Are you really a nonprofit if you accept donations?
 - [x] When does the next Rampage come out?
+
+## Phase 3
+
+- [x] When is your birthday?
+- [x] How would you summarize the major purpose of the paper?

@@ -140,8 +140,7 @@
         "who is the best at capture the flag?",
         "What is see you?",
         "What are the best days to go to the Ramp?",
-        "What does the Bandit association stand for? What is the Girl’s Club?",
-        "How would you summarize the major purpose of the paper?"
+        "What does the Bandit association stand for? What is the Girl’s Club?"
       ],
       "responses": [
         "Go to the Ramp and find out!"
@@ -176,7 +175,6 @@
       "patterns": [
         "how much money has been raised from the QR code?",
         "How much time do the editors spend each week on the paper?",
-        "When is your birthday?",
         "Will there ever be new CEO's? What happens if Cecilia quits, or gets too busy?",
         "What is Jeremy's deepest darkest secret?"
       ],
@@ -235,6 +233,42 @@
       "responses": [
         "We're a nonprofit organization that accepts donations.",
         "You could donate! We're a nonprofit."
+      ]
+    },
+    {
+      "tag": "purpose",
+      "patterns": [
+        "How would you summarize the major purpose of the paper?",
+        "Why did you make the Rampage?",
+        "What's the purpose of the Rampage?"
+      ],
+      "responses": [
+        "The Rampage's purpose is to entertain people and inform them about the Ramp.",
+        "We are a nonprofit that entertains people and informs them about the Ramp."
+      ]
+    },
+    {
+      "tag": "rampage_age",
+      "patterns": [
+        "When was the Ramapge created?",
+        "When was the first issue?",
+        "How old is the Rampage?"
+      ],
+      "responses": [
+        "The Rampage is almost 1 year old! Created in August 2, 2025.",
+        "The first issue was published on August 2, 2025."
+      ]
+    },
+    {
+      "tag": "birthday",
+      "patterns": [
+        "When is your birthday?",
+        "When were you created?",
+        "How old are you?"
+      ],
+      "responses": [
+        "I was created in a Science and Engineering Fair.",
+        "I am RampageBot, created in a Science and Engineering Fair."
       ]
     },
     {
