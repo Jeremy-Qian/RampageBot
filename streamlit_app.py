@@ -1,10 +1,11 @@
 import streamlit as st
 import nltk
-try:
-    nltk.word_tokenize()
-except:
-    nltk.download('punkt_tab')
 from chatbot import predict_tag, get_response
+# Ensure NLTK resources are downloaded
+try:
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    nltk.download('punkt_tab')
 
 st.set_page_config(page_title="RampageBot", page_icon="🤖")
 
