@@ -5,7 +5,7 @@ from chatbot import predict_tag, get_response
 
 st.set_page_config(page_title="RampageBot", page_icon="🤖")
 
-st.title("🤖 RampageBot")
+st.title(":material/newspaper: RampageBot")
 st.markdown("Ask me anything about **The Rampage**!")
 
 if "messages" not in st.session_state:
