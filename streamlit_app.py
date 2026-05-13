@@ -5,7 +5,7 @@ st.set_page_config(page_title="RampageBot", page_icon="🤖")
 
 st.title("🤖 RampageBot")
 st.markdown("Ask me anything about **The Rampage**!")
-nltk.download('punkt')
+nltk.download('punkt_tab')
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
