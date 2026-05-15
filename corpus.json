@@ -323,14 +323,11 @@
     }
   ],
   "default_responses": [
-    "I'm not sure I understand. Could you please rephrase?",
-    "Sorry, I didn't catch that. Could you try again?",
-    "I'm not sure what you mean. Could you clarify?",
-    "I'm not sure I can help with that. Could you ask something else?",
-    "I'm not sure I understand. Could you please rephrase?",
-    "Sorry, I didn't catch that. Could you try again?",
-    "I'm not sure what you mean. Could you clarify?",
-    "I'm not sure I can help with that. Could you ask something else?",
-    ""
+    "I DON'T KNOW WHAT YOU ARE TALKING ABOUT",
+    "What did you say?",
+    "Oh.",
+    "Um...",
+    "Are you sure that's about the Rampage? I can only answer questions about that.",
+    "I don't understand why humans keep talking nonsense to me."
   ]
 }
