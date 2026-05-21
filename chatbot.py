@@ -52,7 +52,7 @@ PATTERNS, TAGS, RESPONSES, DEFAULT_RESPONSES = load_corpus(CORPUS_PATH)
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(PATTERNS)
 
-def predict_tag(sentence: str, threshold: float = 0.3):
+def predict_tag(sentence: str, threshold: float = 0.4):
     """
     Convert the user sentence into a TF‑IDF vector, compute cosine
     similarity against all stored patterns and return the best‑matching
